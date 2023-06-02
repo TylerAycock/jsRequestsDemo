@@ -1,0 +1,3 @@
+# this is what will be ignored when we upload to github 
+node_modules 
+solution 
